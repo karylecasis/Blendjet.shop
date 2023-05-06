@@ -1,3 +1,5 @@
-# Blendjet.shop
+# Tips
+Great respository names are short and memorable. Need inspiration? How about literate-octa-fiesra?
 
-site https://karylecasis.github.io/Blendjet.shop/
+
+Click to visit website:https://karylecasis.github.io/Blendjet.shop/
